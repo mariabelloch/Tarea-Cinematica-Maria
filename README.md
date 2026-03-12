@@ -1,0 +1,2 @@
+Este proyecto consiste en crear un sistema de partículas sencillo en Unity utilizando las fórmulas de la cinemática del tiro parabólico. La idea es simular partículas que se mueven en el espacio siguiendo un movimiento similar al de un objeto lanzado al aire.
+El sistema genera varias partículas desde un mismo punto y cada una se mueve de manera independiente. A lo largo del tiempo, las partículas cambian de posición según las ecuaciones del movimiento parabólico y, cuando alcanzan su tiempo máximo de vida, se eliminan.
